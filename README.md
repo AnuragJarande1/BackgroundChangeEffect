@@ -1,5 +1,5 @@
 # BackgroundChangeEffectJavaScript
-Cafe website using html,css and javascript
+BackgroundChangeEffectJavaScript using html,css and javascript
 
 # Authors
 @AnuragJarande1
